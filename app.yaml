@@ -9,7 +9,7 @@ data:
       <head><title>TKE-ARGO-FLOW</title></head>
       <body style="font-family:Arial;text-align:center;padding:80px;background:#eef4ff">
         <h1>TKE-ARGO-FLOW</h1>
-        <h2>Version 1</h2>
+        <h2>Version 2</h2>
         <p>Git → Argo CD → Kubernetes → Web page</p>
       </body>
     </html>
